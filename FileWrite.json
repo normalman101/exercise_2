@@ -1,20 +1,182 @@
-Smith|John|15.04.1985
-Johnson|Emma|23.11.1990
-Brown|Michael|07.07.1978
-Davis|Olivia|30.12.2000
-Miller|William|01.01.1995
-Wilson|Sophia|22.03.1988
-Moore|James|14.09.1975
-Taylor|Isabella|05.06.1993
-Anderson|Benjamin|18.10.1982
-Thomas|Mia|27.08.1999
-Jackson|Alexander|06.02.1980
-White|Charlotte|19.11.2001
-Harris|Daniel|12.07.1987
-Martin|Amelia|29.04.1994
-Thompson|Matthew|10.01.1979
-Garcia|Ella|03.05.2002
-Martinez|Ethan|25.09.1984
-Robinson|Abigail|08.12.1991
-Clark|David|16.03.1976
-Rodriguez|Emily|21.10.1998
+[
+  {
+    "last_name": "Smith",
+    "first_name": "John",
+    "date_of_birth": {
+      "year": 1985,
+      "month": 4,
+      "day": 15
+    }
+  },
+  {
+    "last_name": "Johnson",
+    "first_name": "Emma",
+    "date_of_birth": {
+      "year": 1990,
+      "month": 11,
+      "day": 23
+    }
+  },
+  {
+    "last_name": "Brown",
+    "first_name": "Michael",
+    "date_of_birth": {
+      "year": 1978,
+      "month": 7,
+      "day": 7
+    }
+  },
+  {
+    "last_name": "Davis",
+    "first_name": "Olivia",
+    "date_of_birth": {
+      "year": 2000,
+      "month": 12,
+      "day": 30
+    }
+  },
+  {
+    "last_name": "Miller",
+    "first_name": "William",
+    "date_of_birth": {
+      "year": 1995,
+      "month": 1,
+      "day": 1
+    }
+  },
+  {
+    "last_name": "Wilson",
+    "first_name": "Sophia",
+    "date_of_birth": {
+      "year": 1988,
+      "month": 3,
+      "day": 22
+    }
+  },
+  {
+    "last_name": "Moore",
+    "first_name": "James",
+    "date_of_birth": {
+      "year": 1975,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "last_name": "Taylor",
+    "first_name": "Isabella",
+    "date_of_birth": {
+      "year": 1993,
+      "month": 6,
+      "day": 5
+    }
+  },
+  {
+    "last_name": "Anderson",
+    "first_name": "Benjamin",
+    "date_of_birth": {
+      "year": 1982,
+      "month": 10,
+      "day": 18
+    }
+  },
+  {
+    "last_name": "Thomas",
+    "first_name": "Mia",
+    "date_of_birth": {
+      "year": 1999,
+      "month": 8,
+      "day": 27
+    }
+  },
+  {
+    "last_name": "Jackson",
+    "first_name": "Alexander",
+    "date_of_birth": {
+      "year": 1980,
+      "month": 2,
+      "day": 6
+    }
+  },
+  {
+    "last_name": "White",
+    "first_name": "Charlotte",
+    "date_of_birth": {
+      "year": 2001,
+      "month": 11,
+      "day": 19
+    }
+  },
+  {
+    "last_name": "Harris",
+    "first_name": "Daniel",
+    "date_of_birth": {
+      "year": 1987,
+      "month": 7,
+      "day": 12
+    }
+  },
+  {
+    "last_name": "Martin",
+    "first_name": "Amelia",
+    "date_of_birth": {
+      "year": 1994,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "last_name": "Thompson",
+    "first_name": "Matthew",
+    "date_of_birth": {
+      "year": 1979,
+      "month": 1,
+      "day": 10
+    }
+  },
+  {
+    "last_name": "Garcia",
+    "first_name": "Ella",
+    "date_of_birth": {
+      "year": 2002,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "last_name": "Martinez",
+    "first_name": "Ethan",
+    "date_of_birth": {
+      "year": 1984,
+      "month": 9,
+      "day": 25
+    }
+  },
+  {
+    "last_name": "Robinson",
+    "first_name": "Abigail",
+    "date_of_birth": {
+      "year": 1991,
+      "month": 12,
+      "day": 8
+    }
+  },
+  {
+    "last_name": "Clark",
+    "first_name": "David",
+    "date_of_birth": {
+      "year": 1976,
+      "month": 3,
+      "day": 16
+    }
+  },
+  {
+    "last_name": "Rodriguez",
+    "first_name": "Emily",
+    "date_of_birth": {
+      "year": 1998,
+      "month": 10,
+      "day": 21
+    }
+  }
+]
